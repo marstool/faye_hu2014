@@ -6,6 +6,15 @@ weight = 20
 
 
 
+* [   fayehu2017.jjj123.com 广州人在美国 ]({{< relref "2017" >}})
+
+
+* [   fayehu2016.jjj123.com 广州人在美国 ]({{< relref "2016" >}})
+
+
+* [   fayehu2014.jjj123.com 广州人在美国 ]({{< relref "2014" >}})
+
+
 * [ 20141031  关于美国那些事儿 万圣节（广东话）  ]({{< relref "20141031_jvszt51cpvw" >}})
 
 
