@@ -4,10 +4,10 @@ description = ""
 weight = 20
 +++
 
-{{< mymp3 mp3="20141022_8fi9paw1h0s.mp4.wav.mp3" >}}
+{{< mymp3 mp3="20141022_8fi9paw1h0s.mp3" >}}
 
 {{< mymp4 mp4="20141022_8fi9paw1h0s.mp4" >}}
 
-     https://www.youtube.com/watch?v=8fI9paW1h0s 
      很多朋友问有有没有听过一些在中国销售的美国产品。例如：如新，安利等等。我的回答是我没听过！我知道这些牌子的原因是因为我中国的朋友圈里朋友们提起的。美国人的消费水平不高，所以一些高价产品的公司就把市场转移到亚洲各地。短片中我讲述了一些原因和个人的看法。敬请观看。 谢谢！ 
+     https://www.youtube.com/watch?v=8fI9paW1h0s 
      关于美国那些事儿（7） 畅销美国货（一） 
